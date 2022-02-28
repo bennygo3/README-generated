@@ -1,60 +1,60 @@
 # **README-generated**
 
-  ### :point_right: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## :point_right: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
        You can find more licensing information at the bottom of the page           
   
-  ### **Description:** 
+## **Description:** 
   
-  To create a command line application that will generate README's
+To create a command line application that will generate README's
 
-  ## **Table of contents:**
+## 
+**Table of contents:**
   
-   -[Instructions](#Instructions:)
-   -[Test](#Test:)
-   -[Usage](#Usage:)
-   -[Contribute](#Contribute:)
-   -[Contact Info](#Contact:)
-   -[License](#License:)
+-[Instructions](#Instructions:)
+-[Test](#Test:)
+-[Usage](#Usage:)
+-[Contribute](#Contribute:)
+-[Contact Info](#Contact:)
+-[License](#License:)
   
-  ##
+##
 
-  ## Instructions:
+## Instructions:
 
-  These are the steps to install:
+These are the steps to install:
 
-  npm i inquirer
+npm i inquirer
 
-  ## Test:
+## Test:
   
-  To test the application:
+To test the application:
 
-  No tests are needed
+No tests are needed
 
-  ## Usage:
+## Usage:
 
+Open an integrated terminal after installing inquirer and run node index.js
 
-  Open an integrated terminal after installing inquirer and run node index.js
+## Contribute:
 
-  ## Contribute:
-
-  Here is how you can contribute:
+Here is how you can contribute:
   
-  No thanks
+No thanks
 
-  ## Contact:
+## Contact:
 
-  You can locate my work by my GitHub name:
+You can locate my work by my GitHub name:
   
   bennygo3
 
-  Or reach at to me by my email:
+Or reach at to me by my email:
   
   gobecode3@gmail.com
 
-  ## License: 
+## License: 
       
       MIT
  
-  Link to the license:
+Link to the license:
 
   https://opensource.org/licenses/MIT
