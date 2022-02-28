@@ -7,9 +7,7 @@
   
 To create a command line application that will generate README's
 
-## 
-**Table of contents:**
-  
+## **Table of contents:**
 -[Instructions](#Instructions:)
 -[Test](#Test:)
 -[Usage](#Usage:)
