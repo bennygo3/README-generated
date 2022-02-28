@@ -32,7 +32,7 @@ To test the application:
 
 ## **Usage:**
 
-  - -
+  - Using the code for this app will allow the user to create a readme generator!
 
 ## **Contribute:**
 
