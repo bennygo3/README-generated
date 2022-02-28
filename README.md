@@ -8,12 +8,14 @@
   To create a command line application that will generate README's
 
   ## Table of contents:
-   -[Installation Instructions](#Instructions:)
-   -[Test Instructions](#Test:)
+  
+   -[Instructions](#Instructions:)
+   -[Test](#Test:)
    -[Usage](#Usage:)
    -[Contribute](#Contribute:)
    -[Contact Info](#Contact:)
    -[License](#License:)
+  
   ##
 
   ### Instructions:
@@ -48,8 +50,6 @@
   Or reach at to me by my email:
   
   gobecode3@gmail.com
-
-  ## License:
 
   ## License: 
       
