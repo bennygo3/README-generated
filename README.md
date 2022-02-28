@@ -2,11 +2,14 @@
 # **README-generated**
 
 ##  :point_right: [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-  You can find more licensing information at the bottom of the page           
+  You can find more licensing information at the bottom of the page
   
 ## **Description:** 
   
-  To create a quick command line README generator
+  Created a quick command line README generator!
+  
+  A link to view a video of the app: <iframe src="https://drive.google.com/file/d/1yit9RTAil-Kxi2Hqiuq4KL7S7xGf3sFm/preview" width="640" height="480"></iframe>
+  
 
 ## 
 **Table of contents:**
