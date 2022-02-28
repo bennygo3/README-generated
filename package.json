@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennygo3/README-generated.git"
+  },
+  "author": "BGo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennygo3/README-generated/issues"
+  },
+  "homepage": "https://github.com/bennygo3/README-generated#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
