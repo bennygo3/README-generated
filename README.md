@@ -8,12 +8,12 @@
 To create a command line application that will generate README's
 
 ## **Table of contents:**
--[Instructions](#Instructions:)
--[Test](#Test:)
--[Usage](#Usage:)
--[Contribute](#Contribute:)
--[Contact Info](#Contact:)
--[License](#License:)
+- [Instructions](#Instructions:)
+- [Test](#Test:)
+- [Usage](#Usage:)
+- [Contribute](#Contribute:)
+- [Contact Info](#Contact:)
+- [License](#License:)
   
 ##
 
