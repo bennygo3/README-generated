@@ -1,60 +1,66 @@
+
 # **README-generated**
 
-  ### :point_right: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-       You can find more licensing information at the bottom of the page           
+##  :point_right: [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+  You can find more licensing information at the bottom of the page           
   
-  ### **Description:** 
+## **Description:** 
   
-  To create a command line application that will generate README's
+  To create a quick README generator
 
-  ## **Table of contents:**
-   -[Installation Instructions](#Instructions:)
-   -[Test Instructions](#Test:)
-   -[Usage](#Usage:)
-   -[Contribute](#Contribute:)
-   -[Contact Info](#Contact:)
-   -[License](#License:)
-  ##
+## 
+**Table of contents:**
+- [Installation Instructions](#Instructions)
+- [Test Instructions](#Test)
+- [Usage](#Usage)
+- [Contribute](#Contribute)
+- [Contact Info](#Contact)
+- [License](#License)
 
-  ### **Instructions:**
 
-  These are the steps to install:
+## **Instructions:**
 
-  npm i inquirer
+These are the packages to install:
 
-  ### **Test:**
+  - Inquirer has been installed along with npm i
+
+## **Test:**
   
-  To test the application:
+To test the application:
 
-  No tests are needed
+  - No tests have been created
 
-  ### **Usage:**
+## **Usage:**
 
+  - Node index.js is the command in the teminal
 
-  Open an integrated terminal after installing inquirer and run node index.js
+## **Contribute:**
 
-  ### **Contribute:**
-
-  Here is how you can contribute:
+Here is how you can contribute to this project:
   
-  No thanks
+  - No
 
-  ### **Contact:**
+## **Contact:**
 
-  You can locate my work by my GitHub name:
+You can locate my work by my GitHub name:
   
-  bennygo3
+  - bennygo3
 
-  Or reach at to me by my email:
+Or reach at to me by my email:
   
-  gobecode3@gmail.com
+  - gobecodeme@gmail.com
 
-  ## **License:**
+## **License:**
 
-  ## License: 
-      
-      MIT
+  - **MIT
+      Copyright <YEAR> <COPYRIGHT HOLDER>
+
+      Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+      The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+      THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**
  
-  Link to the license:
+Link to the license:
 
-  https://opensource.org/licenses/MIT
+  - https://opensource.org/licenses/MIT
