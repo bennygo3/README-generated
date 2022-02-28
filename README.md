@@ -7,7 +7,7 @@
   
   To create a command line application that will generate README's
 
-  ## Table of contents:
+  ## **Table of contents:**
   
    -[Instructions](#Instructions:)
    -[Test](#Test:)
@@ -18,30 +18,30 @@
   
   ##
 
-  ### Instructions:
+  ## Instructions:
 
   These are the steps to install:
 
   npm i inquirer
 
-  ### Test:
+  ## Test:
   
   To test the application:
 
   No tests are needed
 
-  ### Usage:
+  ## Usage:
 
 
   Open an integrated terminal after installing inquirer and run node index.js
 
-  ### Contribute:
+  ## Contribute:
 
   Here is how you can contribute:
   
   No thanks
 
-  ### Contact:
+  ## Contact:
 
   You can locate my work by my GitHub name:
   
